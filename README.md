@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello, world. I'm Lanna Luara👋
 
-<!--
-**lannalua/lannalua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Bachelor's Degree in Computer Science at Universidade Federal de Sergipe
+- 🥰 How to reach me: lannanovaes010@gmail.com
 
-Here are some ideas to get you started:
+<a href="https://github.com/lannalua/github-readme-stats">
+  <img height=200 align="center" width=42% src="https://github-readme-stats.vercel.app/api?username=lannalua&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/lannalua/convoychat">
+  <img height=200 align="center" width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannalua&theme=radical&langs_count=8&layout=compact" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+<div> 
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lannanovaes010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lannalua" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
