@@ -1,19 +1,39 @@
 ## Hello, world. I'm Lanna Luara👋
 
-- 📚 Bachelor's Degree in Computer Science at Universidade Federal de Sergipe
-- 🥰 How to reach me: lannanovaes010@gmail.com
+- 🎓 Bachelor's Degree in Computer Science at Universidade Federal de Sergipe
+- 📚 Currently studying Neural Network
+- ❤️ Always striving to be better.
 
+<div align="center">
 <a href="https://github.com/lannalua/github-readme-stats">
   <img height=200 align="center" width=42% src="https://github-readme-stats.vercel.app/api?username=lannalua&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/lannalua/convoychat">
   <img height=200 align="center" width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannalua&theme=radical&langs_count=8&layout=compact" />
 </a>
+</div>
 
-## 
-<div>  
-  <a href = "mailto:lannanovaes010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lannalua" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## How to reach me
+<h6 align="center">I’m open to sharing knowledge. Feel free to reach out!</h6>
+
+<div align="center">
+  <a href="https://www.github.com/lannalua" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/lannalua" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="mailto:lannanovaes010@gmail.com" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="32" height="32" />
+  </a>
 </div>
 
 ### 🤖 Languages and Technologies
